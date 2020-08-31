@@ -1,2 +1,2 @@
 # Recipe-App
-built using angular
+built using angular, typescript.
